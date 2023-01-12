@@ -26,7 +26,7 @@ import "../less/style.less";
     msg: String,
   },
 })
-export default class HelloWorld extends Vue {
+export default class Game extends Vue {
   msg!: string;
   // class Food{
 
